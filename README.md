@@ -1,6 +1,6 @@
 # Installed packages
-json-server - For creation of mock APIs
-react-table - React Table implementation
+json-server - For creation of mock APIs,
+react-table - React Table implementation,
 Ant Design - Made use of the Datepicker
 
 # How to run

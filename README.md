@@ -1,7 +1,7 @@
 # Installed packages
-json-server - For creation of mock APIs,
-react-table - React Table implementation,
-Ant Design - Made use of the Datepicker
+- json-server - For creation of mock APIs,
+- react-table - React Table implementation,
+- Ant Design - Made use of the Datepicker
 
 # How to run
 1. Navigate to the FrontendDeveloperAssessment folder and run npm install,
